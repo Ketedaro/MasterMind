@@ -1,0 +1,47 @@
+Z:\FINAL PROJECT VB\Project VB\Project VB\bin\Debug\Project VB.exe.config
+Z:\FINAL PROJECT VB\Project VB\Project VB\obj\Debug\Project_VB.FormDeMenu.resources
+Z:\FINAL PROJECT VB\Project VB\Project VB\obj\Debug\Project_VB.FormDeviner.resources
+Z:\FINAL PROJECT VB\Project VB\Project VB\obj\Debug\Project_VB.Resources.resources
+Z:\FINAL PROJECT VB\Project VB\Project VB\obj\Debug\Project_VB.ImageIntro.resources
+Z:\FINAL PROJECT VB\Project VB\Project VB\obj\Debug\Project VB.vbproj.GenerateResource.Cache
+Z:\FINAL PROJECT VB\Project VB\Project VB\bin\Debug\Project VB.exe
+Z:\FINAL PROJECT VB\Project VB\Project VB\bin\Debug\Project VB.pdb
+Z:\FINAL PROJECT VB\Project VB\Project VB\bin\Debug\Project VB.xml
+Z:\FINAL PROJECT VB\Project VB\Project VB\obj\Debug\Project VB.exe
+Z:\FINAL PROJECT VB\Project VB\Project VB\obj\Debug\Project VB.xml
+Z:\FINAL PROJECT VB\Project VB\Project VB\obj\Debug\Project VB.pdb
+Z:\FINAL PROJECT VB\Project VB\Project VB\obj\Debug\Project_VB.FormGame.resources
+D:\Visual studio\Project VB\Project VB\bin\Debug\Project VB.exe.config
+D:\Visual studio\Project VB\Project VB\obj\Debug\Project VB.xml
+D:\Visual studio\Project VB\Project VB\obj\Debug\Project VB.pdb
+D:\Visual studio\Project VB\Project VB\bin\Debug\Project VB.exe
+D:\Visual studio\Project VB\Project VB\bin\Debug\Project VB.pdb
+D:\Visual studio\Project VB\Project VB\bin\Debug\Project VB.xml
+D:\Visual studio\Project VB\Project VB\obj\Debug\Project VB.vbprojResolveAssemblyReference.cache
+D:\Visual studio\Project VB\Project VB\obj\Debug\Project_VB.FormDeMenu.resources
+D:\Visual studio\Project VB\Project VB\obj\Debug\Project_VB.FormDeviner.resources
+D:\Visual studio\Project VB\Project VB\obj\Debug\Project_VB.FormGame.resources
+D:\Visual studio\Project VB\Project VB\obj\Debug\Project_VB.Resources.resources
+D:\Visual studio\Project VB\Project VB\obj\Debug\Project_VB.ImageIntro.resources
+D:\Visual studio\Project VB\Project VB\obj\Debug\Project VB.vbproj.GenerateResource.Cache
+D:\Visual studio\Project VB\Project VB\obj\Debug\Project VB.exe
+D:\Visual studio\Project VB\Project VB\obj\Debug\Project_VB.FormScores.resources
+C:\Users\Bastien\Desktop\Project VB\Project VB\bin\Debug\Project VB.exe.config
+C:\Users\Bastien\Desktop\Project VB\Project VB\obj\Debug\Project VB.exe
+C:\Users\Bastien\Desktop\Project VB\Project VB\obj\Debug\Project VB.xml
+C:\Users\Bastien\Desktop\Project VB\Project VB\obj\Debug\Project VB.pdb
+C:\Users\Bastien\Desktop\Project VB\Project VB\bin\Debug\Project VB.exe
+C:\Users\Bastien\Desktop\Project VB\Project VB\bin\Debug\Project VB.pdb
+C:\Users\Bastien\Desktop\Project VB\Project VB\bin\Debug\Project VB.xml
+C:\Users\Bastien\Desktop\Project VB\Project VB\obj\Debug\Project VB.vbprojResolveAssemblyReference.cache
+C:\Users\Bastien\Desktop\Project VB\Project VB\obj\Debug\Project_VB.FormDeMenu.resources
+C:\Users\Bastien\Desktop\Project VB\Project VB\obj\Debug\Project_VB.FormDeviner.resources
+C:\Users\Bastien\Desktop\Project VB\Project VB\obj\Debug\Project_VB.FormGame.resources
+C:\Users\Bastien\Desktop\Project VB\Project VB\obj\Debug\Project_VB.FormScores.resources
+C:\Users\Bastien\Desktop\Project VB\Project VB\obj\Debug\Project_VB.Resources.resources
+C:\Users\Bastien\Desktop\Project VB\Project VB\obj\Debug\Project_VB.ImageIntro.resources
+C:\Users\Bastien\Desktop\Project VB\Project VB\obj\Debug\Project VB.vbproj.GenerateResource.Cache
+C:\Users\Andy-2\Desktop\Project VB le bon\Project VB\bin\Debug\Project VB.exe.config
+C:\Users\Andy-2\Desktop\Project VB le bon\Project VB\obj\Debug\Project VB.exe
+C:\Users\Andy-2\Desktop\Project VB le bon\Project VB\obj\Debug\Project VB.xml
+C:\Users\Andy-2\Desktop\Project VB le bon\Project VB\obj\Debug\Project VB.pdb
